@@ -19,7 +19,7 @@ be the Square Off PRO, but that's still £225, a lot of money.
 
 This is in the early planning stages. Here's a block diagram of the electronics.
 
-![Block diagram of basic electronics layout](https://raw.githubusercontent.com/michd/echessboard/images/basic_block_diagram.png?raw=true)
+![Block diagram of basic electronics layout](https://raw.githubusercontent.com/michd/echessboard/main/images/basic_block_diagram.png?raw=true)
 
 The LED driver / LED matrix is not confirmed, this might be more flexible with a string of 64
 addressable RGB LEDs instead.
